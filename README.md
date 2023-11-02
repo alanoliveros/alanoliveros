@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">A passionate frontend developer from Philippines.</h3>
+<h3 align="center">A passionate web developer from Philippines.</h3>
+
+## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
+<br>
+
+- 👨‍💻 A passionate Self-taught web developer
+- 🕹️ Playing CTF's at spare time
+- 📚 Currently learning Web Development by Self
+- 🌐 Personal website [link](https://alanoliveros.github.io/)
+- 🔍 I’m currently open for job opportunities.
+- 🤝 I’m looking to collaborate on open source projects
+- 🤔 Ask me about anything, I am happy to help
+- ⚡ Fun fact: I love to play games and watch anime
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
