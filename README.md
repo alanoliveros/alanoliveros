@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A passionate frontend developer from Philippines.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/alansoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alansoliveros" height="30" width="40" /></a>
 <a href="https://fb.com/alansoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alansoliveros" height="30" width="40" /></a>
 <a href="https://instagram.com/alansoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alansoliveros" height="30" width="40" /></a>
@@ -32,6 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
