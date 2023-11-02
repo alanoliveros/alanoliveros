@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A passionate frontend developer from Philippines.</h3>
 
-- 🌱 I’m currently learning **Frontend and Python Core courses.**
-
-- 👨‍💻 All of my projects are available at [https://alanoliveros.github.io/](https://alanoliveros.github.io/)
-
-- 💬 Ask me about **JavaScript, Laravel, and Git.**
-
-- 📫 How to reach me **alanoliveros101@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/alanoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alanoliveros" height="30" width="40" /></a>
@@ -40,9 +32,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alanoliveros"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alanoliveros" /></a><a href="https://ko-fi.com/alanoliveros"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alanoliveros" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanoliveros&show_icons=true&locale=en&layout=compact" alt="alanoliveros" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanoliveros&show_icons=true&locale=en" alt="alanoliveros" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanoliveros&" alt="alanoliveros" /></p>
