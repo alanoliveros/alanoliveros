@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
 
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
-- 👨‍💻 A passionate Self-taught web developer
-- 🕹️ Playing CTF's at spare time
 - 🌐 Personal website [link](https://alanoliveros.github.io/)
 - 🔍 I’m currently open for job opportunities.
-- 🤝 I’m looking to collaborate on open source projects
+- 🤝 I’m looking to collaborate on open-source projects
 - 🤔 Ask me about anything, I am happy to help
 
 [//]: # (<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">)
