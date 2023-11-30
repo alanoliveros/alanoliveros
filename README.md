@@ -15,10 +15,11 @@
 </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <h3 align="left">Tech Stack</h3>
 <p align="left">
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h3 align="left">Support:</h3>
 <p>
