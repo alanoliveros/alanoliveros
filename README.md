@@ -12,8 +12,9 @@
 <a href="https://twitter.com/alansoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alansoliveros" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11545562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11545562" height="30" width="40" /></a>
 
-</a>)
+</a>
 </p>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <h3 align="left">Tech Stack</h3>
 <p align="left">
