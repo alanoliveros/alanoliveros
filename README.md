@@ -1,9 +1,8 @@
-<h1 align="left">Hi 👋, I'm Alan</h1>
+<h1 align="left">Hi 👋, I'm Alan</h1><picture><img src = "about_me.gif" width = 50px></picture>
 <h3 align="left">A passionate web developer from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
 
-<picture><img src = "about_me.gif" width = 50px></picture> **About me**
 - 🌐 Personal website [link](https://alanoliveros.github.io/)
 
 [//]: # (<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">)
