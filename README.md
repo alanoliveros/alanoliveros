@@ -1,7 +1,7 @@
-<h1 align="left"><picture><img src = "about_me.gif" width = 40px></picture> Hi 👋, I'm Alan</h1>
-<h3 align="left">A passionate web developer from Philippines.</h3>
+<h1 align="left"><picture><img src = "about_me.gif" width = 40px></picture> Hi 👋, My name is Alan</h1>
+<h3 align="left">I'm a web developer based in Philippines.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
+<p align="right" style="float: right;"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
 
 - 🌐 Personal website [link](https://alanoliveros.github.io/)
 
