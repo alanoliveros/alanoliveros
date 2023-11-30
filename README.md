@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
 
-## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
+<picture><img src = "about_me.gif" width = 50px></picture> **About me**
 - 🌐 Personal website [link](https://alanoliveros.github.io/)
 
 [//]: # (<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">)
