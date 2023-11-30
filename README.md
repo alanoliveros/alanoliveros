@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Alan</h1><picture><img src = "about_me.gif" width = 50px></picture>
+<h1 align="left">Hi 👋, I'm Alan<picture><img src = "about_me.gif" width = 50px></picture></h1>
 <h3 align="left">A passionate web developer from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
