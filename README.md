@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alan</h1>
+<h1 align="left">Hi 👋, I'm Alan</h1>
 <h3 align="center">A passionate web developer from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
 
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
 - 🌐 Personal website [link](https://alanoliveros.github.io/)
-- 🔍 I’m currently open for job opportunities.
-- 🤝 I’m looking to collaborate on open-source projects
-- 🤔 Ask me about anything, I am happy to help
 
 [//]: # (<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">)
 <h3 align="left">Connect with me:</h3>
