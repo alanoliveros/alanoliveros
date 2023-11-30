@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alan</h1>
-<h3 align="center">A passionate web developer from Philippines.</h3>
+<h3 align="left">A passionate web developer from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
 
