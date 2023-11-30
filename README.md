@@ -1,7 +1,7 @@
 <h1 align="left"><picture><img src = "about_me.gif" width = 40px></picture> Hi 👋, My name is Alan</h1>
 <h3 align="left">I'm a web developer based in Philippines.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
+
 
 - 🌐 Personal website [link](https://alanoliveros.github.io/)
 
@@ -21,6 +21,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
 <h3 align="left">Support:</h3>
 <p>
 <a href="https://www.buymeacoffee.com/alanoliveros"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="alanoliveros" /></a>
