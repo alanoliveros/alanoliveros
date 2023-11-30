@@ -17,7 +17,7 @@
 <h3 align="left">Tech Stack</h3>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,webflow,vue,vite,vercel,ts,tailwind,react,php,ps,nodejs,nuxtjs,netlify,mysql,mongodb,laravel,idea,git,firebase,figma,dotnet,bootstrap)](https://skillicons.dev)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
 <h3 align="left">Support:</h3>
