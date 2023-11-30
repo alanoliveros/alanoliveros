@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Alan</h1>
+<h1 align="left"><picture><img src = "about_me.gif" width = 40px></picture> Hi 👋, I'm Alan</h1>
 <h3 align="left">A passionate web developer from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
@@ -11,8 +11,8 @@
 <a href="https://linkedin.com/in/alanoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanoliveros" height="30" width="40" /></a>
 <a href="https://twitter.com/alansoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alansoliveros" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11545562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11545562" height="30" width="40" /></a>
-<a href="https://codepen.io/alanoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alanoliveros" height="30" width="40" /></a>
-<a href="https://dev.to/alanoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alanoliveros" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/alanoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alanoliveros" height="30" width="40" /></a> -->
+<!-- <a href="https://dev.to/alanoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alanoliveros" height="30" width="40" /></a> -->
 
 [//]: # (<a href="https://dribbble.com/alanoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alanoliveros" height="30" width="40" /></a>)
 [//]: # (<a href="https://medium.com/@alanoliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alanoliveros" height="30" width="40" /></a>)
