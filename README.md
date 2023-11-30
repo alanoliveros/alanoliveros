@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="alanoliveros" /> </p>
 <h3 align="left">Support:</h3>
 <p>
-<a href="https://www.buymeacoffee.com/alanoliveros"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="alanoliveros" /></a>
+<a href="https://www.buymeacoffee.com/alanoliveros"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="alanoliveros" /></a>
 <!-- <a href="https://ko-fi.com/alanoliveros"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="alanoliveros" /></a> -->
 </p>
 <br>
