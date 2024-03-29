@@ -6,14 +6,13 @@
 <h3 align="left">Tech Stack</h3>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,laravel,webflow,figma,idea,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,laravel,webflow,figma,idea)](https://skillicons.dev)
 
 <h3 align="left">Socials</h3>
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alanoliveros)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/alansoliveros)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/11545562)
 
 </a>
 </p>
