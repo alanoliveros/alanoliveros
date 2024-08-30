@@ -6,7 +6,7 @@
 <h3 align="left">Tech Stack</h3>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,laravel,webflow,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,laravel,webflow,figma)]
 
 <h3 align="left">Socials</h3>
 <p align="left">
