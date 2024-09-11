@@ -4,10 +4,7 @@
 
 
 <h3 align="left">Tech Stack</h3>
-<p align="left">
 
-
-</p>
 <p align="left">
   <strong>Languages:</strong> 
 </p>
@@ -33,7 +30,6 @@
 <p align="left">
   
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alanoliveros)
-
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/alansoliveros)
 </p>
 
