@@ -6,12 +6,12 @@
 <h3 align="left">Tech Stack</h3>
 <p align="left">
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,laravel,webflow,figma)
+
 </p>
 <p align="left">
   <strong>Languages:</strong> 
-  <img src="https://skillicons.dev/icons?i=js,html,css" alt="Languages" />
 </p>
+<img src="https://skillicons.dev/icons?i=js,html,css" alt="Languages" />
 <p align="left">
   <strong>Frameworks & Libraries:</strong> 
   <img src="https://skillicons.dev/icons?i=react,vue" alt="Frameworks & Libraries" />
