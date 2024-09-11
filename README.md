@@ -28,7 +28,7 @@
 
 
 <p align="left">
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alanoliveros)
-  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/alansoliveros)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alanoliveros)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/alansoliveros)
 </p>
 
