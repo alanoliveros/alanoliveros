@@ -7,12 +7,27 @@
 <p align="left">
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,laravel,webflow,figma)
+</p>
+<p align="left">
+  <strong>Languages:</strong> 
+  <img src="https://skillicons.dev/icons?i=js,html,css" alt="Languages" />
+</p>
+<p align="left">
+  <strong>Frameworks & Libraries:</strong> 
+  <img src="https://skillicons.dev/icons?i=react,vue" alt="Frameworks & Libraries" />
+</p>
+<p align="left">
+  <strong>Tools & Platforms:</strong> 
+  <img src="https://skillicons.dev/icons?i=laravel,webflow,figma" alt="Tools & Platforms" />
+</p>
+
 
 <h3 align="left">Socials</h3>
-<p align="left">
 
+
+
+<p align="left">
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alanoliveros)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/alansoliveros)
-
 </a>
 </p>
