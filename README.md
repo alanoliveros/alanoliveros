@@ -4,32 +4,15 @@
 
 
 <h3 align="left">Tech Stack</h3>
-
 <p align="left">
-  <strong>Languages:</strong> 
-</p>
-<img src="https://skillicons.dev/icons?i=js,html,css" alt="Languages" />
-<p align="left">
-  <strong>Frameworks & Libraries:</strong> 
-  
-</p>
 
-<img src="https://skillicons.dev/icons?i=react,vue" alt="Frameworks & Libraries" />
-<p align="left">
-  <strong>Tools & Platforms:</strong> 
-
-</p>
-
-  <img src="https://skillicons.dev/icons?i=laravel,webflow,figma" alt="Tools & Platforms" />
-
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,laravel,webflow,figma)
 
 <h3 align="left">Socials</h3>
-
-
-
-
 <p align="left">
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alanoliveros)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/alansoliveros)
-</p>
 
+</a>
+</p>
