@@ -16,9 +16,3 @@
 
 </a>
 </p>
-
-
-<!-- <p> -->
-<!-- <a href="https://www.buymeacoffee.com/alanoliveros"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="alanoliveros" /></a> -->
-<!-- <a href="https://ko-fi.com/alanoliveros"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="alanoliveros" /></a> -->
-<!-- </p> -->
