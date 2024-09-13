@@ -1,9 +1,5 @@
-<h1>Hello, I'm Alan 👋<span>Front-End Developer | Philippines</span></h1>
+<h1>Hello, I'm Alan 👋</h1>
 <h3>Front-End Developer | Philippines</h3>
-
-<img src="one_punch.gif" width="100%" alt="One Punch Man">
-
-
 
 <p><img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="Profile views"></p>
 
