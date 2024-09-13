@@ -15,7 +15,7 @@
 
 <h3>Connect with me</h3>
 <p align="left">
-  <a href="[https://skillicons.dev](https://linkedin.com/in/alanoliveros)">
+  <a href="[https://skillicons.dev](https://linkedin.com/in/alanoliveros)" style="margin-right: 5px;" >
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
