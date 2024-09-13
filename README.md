@@ -1,6 +1,8 @@
-<p align="left" style="margin: 0; padding: 0;">
-  <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="Profile views" style="position: absolute; top: 0; right: 0; padding: 0 0 0 0">
+<p align="left" style="position: absolute; top: 0; right: 0; padding: 0 0 0 0">
+  <img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="Profile views">
 </p>
+
+
 <h1 align="left" style="margin: 0; padding: 0;">
 Hello, I'm Alan 👋
 </h1>
@@ -10,7 +12,6 @@ Hello, I'm Alan 👋
 <h2 align="left" style="margin: 0; padding: 0;">
 Front-End Developer | Philippines
 </h2>
-<hr>
 
 <h3 align="left" style="margin: 0; padding: 0;">Tech Stack</h3>
 <p align="left">
