@@ -1,5 +1,3 @@
-<style> *, *::before, *::after { box-sizing: border-box; } * { margin: 0; padding: 0; font: inherit; } html { hanging-punctuation: first last; } body { min-height: 100svh; } img, picture, svg, video { display: block; max-width: 100%; } h1, h2, h3, h4, h5, h6 { text-wrap: balance; } p, li { max-width: var(--p-max-width, 65ch); text-wrap: pretty; } </style>
-
 <h1 style="margin: 0; padding: 0;"> Hello, I'm Alan 👋 </h1>
 <h2 style="margin: 0; padding: 0;"> Front-End Developer | Philippines </h2>
 <img src="one_punch.gif" width="100%" alt="One Punch Man">
