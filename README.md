@@ -10,15 +10,3 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,laravel,webflow,figma" />
   </a>
 </p>
-
-
-<h3>Connect with me</h3>
-<p align="left">
-  <a href="[https://skillicons.dev](https://linkedin.com/in/alanoliveros)">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-   <a href="[https://skillicons.dev](https://twitter.com/alansoliveros)">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
