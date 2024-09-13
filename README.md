@@ -12,7 +12,7 @@
 </p>
 
 
-<h3>Connect with me</h3>
+<h4>Connect with me</h4>
 <p align="left">
   <a href="[https://skillicons.dev](https://linkedin.com/in/alanoliveros)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
