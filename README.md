@@ -1,7 +1,5 @@
-<div>
-<h1>Hello, I'm Alan 👋</h1>
+<h1>Hello, I'm Alan 👋<span>Front-End Developer | Philippines</span></h1>
 <h3>Front-End Developer | Philippines</h3>
-</div>
 
 <img src="one_punch.gif" width="100%" alt="One Punch Man">
 
