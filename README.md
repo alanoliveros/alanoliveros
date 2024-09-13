@@ -7,6 +7,8 @@
 
 <h3>Tech Stack</h3>
 <p><img src="https://skillicons.dev/icons?i=js,html,css,react,vue,laravel,webflow,figma" alt="Tech Stack"></p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
+
 
 <h3>Connect with me</h3>
 <p>
