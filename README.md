@@ -7,9 +7,8 @@
 <h3>Tech Stack</h3>
 <p> <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,laravel,webflow,figma" alt="Tech Stack"> </p>
 <h3>Social Media</h3>
-<p>
-  <a href="https://linkedin.com/in/alanoliveros" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"> </a>
-  <a href="https://twitter.com/alansoliveros" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"> </a>
-</p>
+
+<a href="https://linkedin.com/in/alanoliveros" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"> </a>
+<a href="https://twitter.com/alansoliveros" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"> </a>
 
 
