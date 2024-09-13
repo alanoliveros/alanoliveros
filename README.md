@@ -1,6 +1,6 @@
 <h1>Hello, I'm Alan 👋</h1>
 <img src="one_punch.gif" width="100%" alt="One Punch Man">
-<h3>Front-End Developer | Philippines</h3>
+<h2>Front-End Developer | Philippines</h2>
 
 <p><img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="Profile views"></p>
 
@@ -12,7 +12,7 @@
 </p>
 
 
-<h4>Connect with me</h4>
+<h3>Connect with me</h3>
 <p align="left">
   <a href="[https://skillicons.dev](https://linkedin.com/in/alanoliveros)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
