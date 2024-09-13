@@ -14,11 +14,12 @@
 
 
 <h3>Connect with me</h3>
-<p>
-  <a href="https://linkedin.com/in/alanoliveros">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<p align="left">
+  <a href="[https://skillicons.dev](https://linkedin.com/in/alanoliveros)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/alansoliveros">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+
+   <a href="[https://skillicons.dev](https://twitter.com/alansoliveros)">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
