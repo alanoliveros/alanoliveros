@@ -5,7 +5,7 @@
 <h3>Tech Stack</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,vue,laravel,postgres,mysql,mongodb,nodejs,webflow,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,vue,figma,webflow" />
   </a>
 </p>
 
