@@ -34,10 +34,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alanoliveros&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
- <a href="https://twitter.com/alansoliveros" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?logo=x&logoColor=white" alt="Twitter/X" />
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanoliveros&layout=compact&theme=radical" alt="Top Languages" height="150px" />
 </div>
 
 ---
@@ -46,5 +43,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/alanoliveros" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-   <a href="https://twitter.com/alansoliveros" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter/X" /></a>
+   <a href="https://twitter.com/alansoliveros" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?logo=x&logoColor=white" alt="Twitter/X" />
+</a>
+
 </p>
