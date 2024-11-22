@@ -1,7 +1,7 @@
 <div align="center">
   <img src="one_punch.gif" alt="One Punch Man" width="100%">
 
-  <h1>👋 Hello, I'm Alan Oliveros</h1>
+  <h1>👋 ➜ Hello, I'm Alan Oliveros</h1>
   <p>Front-End Developer | Passionate About Best Practices & Standards | Mobile-First Advocate</p>
 
   <p>
