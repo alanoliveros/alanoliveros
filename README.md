@@ -43,5 +43,5 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/alanoliveros" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/alanoliveros" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+   <a href="https://twitter.com/alansoliveros" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter/X" /></a>
 </p>
