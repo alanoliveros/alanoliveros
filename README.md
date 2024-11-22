@@ -34,7 +34,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alanoliveros&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanoliveros&layout=compact&theme=radical" alt="Top Languages" height="150px" />
+ <a href="https://twitter.com/alansoliveros" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?logo=x&logoColor=white" alt="Twitter/X" />
+</a>
+
 </div>
 
 ---
