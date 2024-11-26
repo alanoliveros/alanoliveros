@@ -23,9 +23,10 @@
 
 <h2>🌱 Current Endeavors</h2>
 <ul>
-  <li>🚀 Building <strong>TechXplore</strong> using <code>React.js</code> and <code>Supabase</code>.</li>
-  <li>🎨 Refining designs in <strong>Figma</strong> with a focus on light-themed aesthetics.</li>
-  <li>🔧 Organizing stylesheets with <code>@use</code> and <code>Sass migrator</code>.</li>
+  <li>🚀 Developing <strong>TechXplore</strong> with <code>React.js</code>, <code>Supabase</code>, and <code>react-slick</code> for a responsive and dynamic UI.</li>
+  <li>🎨 Refining designs in <strong>Figma</strong> with a light-themed, mobile-first focus.</li>
+  <li>🔧 Enhancing SCSS organization using <code>@use</code> and <code>Sass migrator</code> for modern styling practices.</li>
+  <li>📦 Streamlining builds with <code>Vite</code> and deploying seamlessly on <strong>Vercel</strong>.</li>
 </ul>
 
 ---
