@@ -22,6 +22,7 @@
 ---
 
 <h2>🌱 Current Endeavors</h2>
+
 <ul>
   <li>💻 Enhancing front-end workflows with <code>React.js</code> and <code>Supabase</code>.</li>
   <li>🎨 Refining designs in <strong>Figma</strong> with a light-themed, mobile-first focus.</li>
