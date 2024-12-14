@@ -44,8 +44,10 @@
 <h2>🌐 Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alanoliveros" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-   <a href="https://twitter.com/alansoliveros" target="_blank">
+  <a href="https://linkedin.com/in/alanoliveros" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/alansoliveros" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?logo=x&logoColor=white" alt="Twitter/X" />
-   </a>
+  </a>
 </p>
