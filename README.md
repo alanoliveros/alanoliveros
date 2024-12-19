@@ -26,17 +26,13 @@
   <li>🔧 Enhancing SCSS organization using <code>@use</code> and <code>Sass migrator</code> for modern styling practices.</li>
   <li>📦 Streamlining builds with <code>Vite</code> and deploying seamlessly on <strong>Vercel</strong>.</li>
 </ul>
-
 ---
-
 <h2>📈 Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alanoliveros&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanoliveros&layout=compact&theme=radical" alt="Top Languages" height="150px" />
 </div>
-
 ---
-
 <h2>🌐 Connect</h2>
 <p align="center">
   <a href="https://linkedin.com/in/alanoliveros" target="_blank">
