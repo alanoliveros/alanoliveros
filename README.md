@@ -12,8 +12,8 @@
 <h2>💡 Skills & Tools</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,vue,figma,webflow,vite" alt="Skills" />
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,figma,typescript,vite,swc,pnpm,jwt,tailwind,git,vercel" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,sass,vite,git,pnpm,figma,vercel,nodejs" alt="Skills" />
+
   </a>
   </a>
 </div>
