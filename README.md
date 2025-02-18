@@ -22,11 +22,10 @@
 
 <h2>🌱 Current Endeavors</h2>
 <ul>
- <li>💻 Enhancing front-end workflows with <code>React.js</code>, <code>TypeScript</code>, and <code>Supabase</code>.</li>
-  <li>🎨 Refining designs in <strong>Figma</strong> with a light-themed, mobile-first focus, and applying <strong>Next.js</strong> for better SEO.</li>
-  <li>🔧 Enhancing SCSS organization using <code>@use</code> and <code>Sass migrator</code> for modern styling practices, alongside <code>SCSS Modules</code> for scoped styles.</li>
-  <li>📦 Streamlining builds with <code>Vite</code> and deploying seamlessly on <strong>Vercel</strong>, leveraging <code>pnpm</code> for package management.</li>
-  <li>🎮 Working on a multi-game analytics dashboard, including Dota 2, Valorant, and MLBB, with advanced player and game stat management.</li>
+  <li>💻 Developing scalable front-end solutions with <code>React.js</code> and <code>Supabase</code>.</li>
+  <li>🎨 Crafting mobile-first, light-themed designs in <strong>Figma</strong>.</li>
+  <li>🔧 Optimizing SCSS organization using <code>@use</code> and <code>Sass migrator</code>.</li>
+  <li>📦 Speeding up builds and deployment with <code>Vite</code> and <strong>Vercel</strong>.</li>
 </ul>
 
 ---
