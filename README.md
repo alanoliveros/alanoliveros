@@ -13,6 +13,8 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,vue,figma,webflow,vite" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,figma,typescript,vite,swc,pnpm,jwt,tailwind,git,vercel" alt="Skills" />
+  </a>
   </a>
 </div>
 
