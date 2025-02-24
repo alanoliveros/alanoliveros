@@ -1,7 +1,5 @@
 <div align="center">
-  
   <img src="one_punch.gif" alt="One Punch Man" width="100%">
-
   <h1>👋 Hello, I'm Alan Oliveros</h1>
   <p>Front-End Developer | Passionate About Best Practices & Standards | Mobile-First Advocate</p>
   <p><img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="Profile views"></p>
@@ -13,7 +11,6 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,sass,vite,git,pnpm,figma,vercel,nodejs" alt="Skills" />
-
   </a>
   </a>
 </div>
