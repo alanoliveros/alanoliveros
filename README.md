@@ -4,9 +4,7 @@
   <p>Front-End Developer | Passionate About Best Practices & Standards | Mobile-First Advocate</p>
   <p><img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="Profile views"></p>
 </div>
-
 ---
-
 <h2>💡 Skills & Tools</h2>
 <div align="center">
   <a href="https://skillicons.dev">
