@@ -8,6 +8,7 @@
 ---
 
 <h2>💡 Skills & Tools</h2>
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,sass,vite,git,pnpm,figma,vercel,nodejs" alt="Skills" />
