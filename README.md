@@ -14,8 +14,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs" alt="Skills row 1" /><br />
     <img src="https://skillicons.dev/icons?i=vite,nodejs,supabase,git,pnpm,figma,vercel,laravel" alt="Skills row 2" />
   </a>
-  </a>
 </div>
+
+
 
 ---
 
@@ -42,6 +43,11 @@
 ---
 
 <h2>📈 Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alanoliveros&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanoliveros&layout=compact&theme=radical" alt="Top Languages" height="150px" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alanoliveros&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
