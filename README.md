@@ -42,12 +42,7 @@
 
 ---
 
-<h2>📈 Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanoliveros&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanoliveros&layout=compact&theme=radical" alt="Top Languages" height="150px" />
-</div>
+<h2>📈 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alanoliveros&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
@@ -56,7 +51,8 @@
 
 ---
 
-<h2>🌐 Connect</h2>
+<h2>🌐 Let's Connect</h2>
+
 <p align="center">
   <a href="https://alanoliveros.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
  <a href="https://linkedin.com/in/alanoliveros" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
