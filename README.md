@@ -11,7 +11,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs,vite,nodejs,supabase,git,pnpm,figma,vercel,laravel" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs" alt="Skills row 1" /><br />
+    <img src="https://skillicons.dev/icons?i=vite,nodejs,supabase,git,pnpm,figma,vercel,laravel" alt="Skills row 2" />
   </a>
   </a>
 </div>
