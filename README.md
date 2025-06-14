@@ -12,13 +12,25 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,sass,vite,git,pnpm,figma,vercel,nodejs" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs,vite,nodejs,supabase,git,pnpm,figma,vercel,laravel" alt="Skills" />
   </a>
   </a>
 </div>
 
 ---
 
-<h2>🌱 Current Endeavors</h2>
+<h2>⚡ About Me</h2>
+
+- 🎨 Passionate about **pixel-perfect UI** and clean code.
+- 📱 Advocate of **mobile-first design** and **performance optimization**.
+- 💡 Familiar with advanced effects: scroll-based animation, pixel shaders, glitch effects, and Framer Motion/GSAP/Lenis magic.
+- 🧱 Skilled in turning **complex Figma designs** into responsive, accessible, and scalable components.
+- 🧪 Experienced in working with **real-time apps**, esports systems, player stats, and admin dashboards.
+
+
+---
+
+<h2>🌱 Currently Working On</h2>
 
 <ul>
   <li>💻 Developing scalable front-end solutions with <code>React.js</code> and <code>Supabase</code>.</li>
