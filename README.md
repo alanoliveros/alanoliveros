@@ -28,18 +28,6 @@
 - 🧱 Skilled in turning **complex Figma designs** into responsive, accessible, and scalable components.
 - 🧪 Experienced in working with **real-time apps**, esports systems, player stats, and admin dashboards.
 
-
----
-
-<h2>🌱 Currently Working On</h2>
-
-<ul>
-  <li>🚀 Exploring the latest in <code>Tailwind CSS v4</code>, <code>Next.js 15</code>, and <code>Supabase</code> for modern web development.</li>
-  <li>🎮 Building a full-featured esports management system with <strong>role-based access control</strong>, <strong>real-time overlays</strong>, and support for competitive games like <em>Mobile Legends: Bang Bang</em> and <em>Dota 2</em>.</li>
-  <li>🎨 Working part-time as a <strong>Web Designer</strong>, focusing on UI/UX design using <strong>Figma</strong> to deliver intuitive and mobile-first user interfaces.</li>
-  <li>✨ Experimenting with advanced <strong>web animations</strong> and interactive visuals to enhance the user experience.</li>
-</ul>
-
 ---
 
 <h2>📈 GitHub Stats</h2>
