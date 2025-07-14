@@ -35,7 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanoliveros&layout=compact&theme=radical" alt="Top Languages" height="150px" />
 </div>
 
-
 ---
 
 <h2>🌐 Let's Connect</h2>
