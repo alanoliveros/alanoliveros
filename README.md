@@ -8,7 +8,6 @@
 ---
 
 <h2>💡 Skills & Tools</h2>
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs" alt="Skills row 1" /><br />
@@ -19,7 +18,6 @@
 ---
 
 <h2>⚡ About Me</h2>
-
 - 🎨 Passionate about **pixel-perfect UI** and clean code.
 - 📱 Advocate of **mobile-first design** and **performance optimization**.
 - 💡 Familiar with advanced effects: scroll-based animation, pixel shaders, glitch effects, and Framer Motion/GSAP/Lenis magic.
@@ -29,7 +27,6 @@
 ---
 
 <h2>📈 GitHub Stats</h2>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alanoliveros&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanoliveros&layout=compact&theme=radical" alt="Top Languages" height="150px" />
@@ -38,7 +35,6 @@
 ---
 
 <h2>🌐 Let's Connect</h2>
-
 <p align="center">
   <a href="https://alanoliveros.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
  <a href="https://linkedin.com/in/alanoliveros" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
