@@ -31,8 +31,9 @@
 <h2>📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanoliveros&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanoliveros&layout=compact&theme=radical" alt="Top Languages" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanoliveros&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanoliveros&theme=radical" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanoliveros&theme=radical" alt="Most commit language"/>
 </div>
 
 ---
