@@ -36,6 +36,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanoliveros&theme=radical" alt="Most commit language"/>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/github/followers/alanoliveros?label=Followers&style=flat&color=109ccb"/>
+  <img src="https://img.shields.io/github/stars/alanoliveros?label=Stars&style=flat&color=yellow"/>
+</div>
+
 ---
 
 <h2>🌐 Let's Connect</h2>
