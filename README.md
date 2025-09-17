@@ -36,15 +36,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanoliveros&theme=radical" alt="Most commit language"/>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/alanoliveros?label=Followers&style=flat&color=109ccb"/>
-  <img src="https://img.shields.io/github/stars/alanoliveros?label=Stars&style=flat&color=yellow"/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanoliveros&theme=radical&hide_border=true" alt="Activity Graph"/>
-<img src="https://streak-stats.demolab.com?user=alanoliveros&theme=radical&hide_border=true" alt="GitHub Streak" height="150px"/>
-
-</div>
-
 ---
 
 <h2>🌐 Let's Connect</h2>
