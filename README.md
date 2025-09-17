@@ -20,11 +20,10 @@
 
 <h2>⚡ About Me</h2>
 
-- 🎨 Passionate about **pixel-perfect UI** and clean code.
-- 📱 Advocate of **mobile-first design** and **performance optimization**.
-- 💡 Familiar with advanced effects: scroll-based animation, pixel shaders, glitch effects, and Framer Motion/GSAP/Lenis magic.
-- 🧱 Skilled in turning **complex Figma designs** into responsive, accessible, and scalable components.
-- 🧪 Experienced in working with **real-time apps**, esports systems, player stats, and admin dashboards.
+- 🎨 Passionate about pixel-perfect UI and clean, scalable code.
+- 📱 Advocate of mobile-first design and performance optimization.
+- 💡 Skilled in interactive effects with Framer Motion, GSAP, and Lenis.
+- 🚀 Experienced in Shopify development, real-time apps, and esports systems.
 
 ---
 
