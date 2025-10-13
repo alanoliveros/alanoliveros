@@ -19,8 +19,6 @@
 
 <h2>⚡ About Me</h2>
 
-- 🎨 Passionate about pixel-perfect UI and clean, scalable code... blah.blah.blah.
-
 Years ago, I didn’t have a formal job in coding, I just trained myself relentlessly. Even though I studied Software Development for almost seven years across different schools, most of what I use in real-world projects came from self-learning and hands-on experience.
 
 I got my first job because I never stopped learning. If you check my GitHub activity, you’ll see how consistent I’ve been, there were times I barely slept because I was too focused on coding and improving.
@@ -28,6 +26,19 @@ I got my first job because I never stopped learning. If you check my GitHub acti
 Now that I’m working professionally, I commit less often, but my time goes into solving problems and building solutions that help my clients’ businesses grow.
 
 Feel free to connect with me on LinkedIn. If you’ve got an amazing idea for a website, SaaS, app, or e-commerce platform, send me a message, we can discuss (and maybe politely argue) about how to make it real.
+
+
+
+
+Boring stuff about me:
+
+I like traveling, exploring new places with good coffee, and building things. Of course, all of that needs money — and yeah, coffee’s way too expensive these days.
+
+I actually enjoy coding (most of the time). I’m more into frontend, but I can handle backend when needed — let’s just say I’ve been forced to like it. Before AI tools, I used to live on Stack Overflow. I’ve had plenty of moments where my brain just... overflowed.
+
+My longest-running games are Dota 2, Clash of Clans, and chess (though I rarely play now). I don’t do much physical sports anymore — I’ve had a few accidents before, but I survived and learned to appreciate life differently.
+
+I used to be loud, crazy, and very talkative — adults didn’t always like that. Now, I’ve learned the way of silence. It’s calm, peaceful, and energy-saving.
 
 
 ---
