@@ -27,20 +27,6 @@ Now that I’m working professionally, I commit less often, but my time goes int
 
 Feel free to connect with me on LinkedIn. If you’ve got an amazing idea for a website, SaaS, app, or e-commerce platform, send me a message, we can discuss (and maybe politely argue) about how to make it real.
 
-
-
-
-Boring stuff about me:
-
-I like traveling, exploring new places with good coffee, and building things. Of course, all of that needs money — and yeah, coffee’s way too expensive these days.
-
-I actually enjoy coding (most of the time). I’m more into frontend, but I can handle backend when needed — let’s just say I’ve been forced to like it. Before AI tools, I used to live on Stack Overflow. I’ve had plenty of moments where my brain just... overflowed.
-
-My longest-running games are Dota 2, Clash of Clans, and chess (though I rarely play now). I don’t do much physical sports anymore — I’ve had a few accidents before, but I survived and learned to appreciate life differently.
-
-I used to be loud, crazy, and very talkative — adults didn’t always like that. Now, I’ve learned the way of silence. It’s calm, peaceful, and energy-saving.
-
-
 ---
 
 <h2>📈 GitHub Stats</h2>
