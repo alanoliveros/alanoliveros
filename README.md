@@ -19,9 +19,14 @@
 
 <h2>⚡ About Me</h2>
 
-- 🎨 Passionate about pixel-perfect UI and clean, scalable code... blah.blah.blah. Years ago, I didn’t have a formal job in coding, I just trained myself relentlessly. Even though I studied Software Development for almost seven years across different schools, most of what I use in real-world projects came from self-learning and hands-on experience.
+- 🎨 Passionate about pixel-perfect UI and clean, scalable code... blah.blah.blah.
+
+Years ago, I didn’t have a formal job in coding, I just trained myself relentlessly. Even though I studied Software Development for almost seven years across different schools, most of what I use in real-world projects came from self-learning and hands-on experience.
+
 I got my first job because I never stopped learning. If you check my GitHub activity, you’ll see how consistent I’ve been, there were times I barely slept because I was too focused on coding and improving.
+
 Now that I’m working professionally, I commit less often, but my time goes into solving problems and building solutions that help my clients’ businesses grow.
+
 Feel free to connect with me on LinkedIn. If you’ve got an amazing idea for a website, SaaS, app, or e-commerce platform, send me a message, we can discuss (and maybe politely argue) about how to make it real.
 
 
