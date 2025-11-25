@@ -19,9 +19,9 @@
 
 <h2>⚡ About Me</h2>
 
-Hi, I’m Alan. I’ve obsessively trained myself in software development over the past seven years. While I studied at two schools, most of what I use today comes from real-world practice, late nights, and sheer persistence.
+Hi, I’m Alan. I trained myself through real projects and relentless practice, becoming a frontend engineer who ships fast, builds clean, and turns designs into real, production ready products.
 
-I’ve joined multiple organizations to learn how to work both in teams and independently. My growth comes from curiosity, consistency, and the drive to keep improving. Today, I channel that same energy into building scalable, meaningful digital products that push businesses forward.
+I joined multiple organizations to learn how to work both in teams and independently. My growth comes from curiosity, consistency, and the drive to keep improving. Today, I channel that same energy into creating meaningful digital experiences that actually move businesses forward.
 
 If you have a bold idea for a website, SaaS, or e-commerce platform, let’s connect on LinkedIn and build something worth launching.
 
