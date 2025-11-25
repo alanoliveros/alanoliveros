@@ -19,11 +19,11 @@
 
 <h2>⚡ About Me</h2>
 
-I didn’t start with a job in tech. I trained myself obsessively. Even after studying Software Development for seven years across different schools, most of what I use today came from real-world practice, late nights, and persistence.
+Hi, I’m Alan. I’ve obsessively trained myself in software development over the past seven years. While I studied at two schools, most of what I use today comes from real-world practice, late nights, and sheer persistence.
 
-My first opportunity came from consistency and curiosity. Today, I turn that same drive into building scalable, meaningful digital products that push businesses forward.
+I’ve joined multiple organizations to learn how to work both in teams and independently. My growth comes from curiosity, consistency, and the drive to keep improving. Today, I channel that same energy into building scalable, meaningful digital products that push businesses forward.
 
-If you have a great idea for a website, SaaS, or e-commerce platform, reach out on LinkedIn. Let’s build something worth launching.
+If you have a bold idea for a website, SaaS, or e-commerce platform, let’s connect on LinkedIn and build something worth launching.
 
 ---
 
