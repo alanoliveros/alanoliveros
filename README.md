@@ -19,11 +19,11 @@
 
 <h2>⚡ About Me</h2>
 
-Hi, I’m Alan. I trained myself through real projects and relentless practice, becoming a frontend engineer who ships fast, builds clean, and turns designs into real, production ready products.
+Hey, I’m Alan. I’ve learned frontend engineering by jumping into real projects and practicing nonstop. I’m all about shipping fast, writing clean code, and turning designs into fully working products you can actually use.
 
-I joined multiple organizations to learn how to work both in teams and independently. My growth comes from curiosity, consistency, and the drive to keep improving. Today, I channel that same energy into creating meaningful digital experiences that actually move businesses forward.
+I’ve worked both solo and with teams, figuring out how to learn and grow in every situation. What keeps me going? Curiosity, consistency, and a genuine love for getting better every day. Now, I focus that energy on building digital experiences that make a difference and help businesses grow.
 
-If you have a bold idea for a website, SaaS, or e-commerce platform, let’s connect on LinkedIn and build something worth launching.
+If you have an idea for a website, SaaS app, or online store, let’s connect on LinkedIn and see what we can create together.
 
 ---
 
