@@ -25,6 +25,8 @@ I’ve worked both solo and with teams, learning how to adapt, improve, and deli
 
 If you have an idea for a website, SaaS app, or online store, let’s connect on LinkedIn and see what we can build.
 
+No dev store = no work
+
 ---
 
 <h2>📈 GitHub Stats</h2>
