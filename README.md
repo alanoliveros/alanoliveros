@@ -21,10 +21,6 @@
 
 Frontend & Shopify Developer focused on building clean, responsive, and user-friendly interfaces. I work both independently and with teams on production-ready projects.
 
-I usually take Sundays and Mondays off (so no green dots those days 😄). I now work internationally, which means most of my coding happens at night.
-
-Outside of coding, I collect fragrances, go to the gym, and read self-help books.
-
 ---
 
 <h2>📈 GitHub Stats</h2>
