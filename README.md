@@ -1,7 +1,7 @@
 <div align="center">
   <img src="one_punch.gif" alt="One Punch Man" width="100%">
   <h1>👋 Hello, I'm Alan Oliveros</h1>
-  <p>Shopify Developer & Specialist | Frontend Developer | Next.js & React | UI/UX</p>
+  <p>Shopify Developer | Frontend Developer | Next.js & React</p>
   <p><img src="https://komarev.com/ghpvc/?username=alanoliveros&label=Profile%20Views&color=109ccb&style=flat" alt="Profile views"></p>
 </div>
 
